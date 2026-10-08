@@ -46,14 +46,7 @@ I enjoy building custom security tools, automating repetitive tasks, exploring n
 
 ## 📂 Featured Projects
 
-### 🔹 [enumport](https://github.com/fstringuetta/enumport)
-Bash-based automation for network port and service enumeration using Nmap.
-
-### 🔹 [dockerfile](https://github.com/fstringuetta/dockerfile)
-Docker environment with Kali Linux security tools.
-
-### 🔹 [dumpzilla](https://github.com/fstringuetta/dumpzilla)
-Python-based security tooling.
+### 🚸 Under construction!
 
 ## 📊 GitHub Statistics
 
