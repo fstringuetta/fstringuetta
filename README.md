@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Whoami
 
 Offensive Security professional focused on identifying, exploiting, and understanding security vulnerabilities across modern applications and corporate infrastructures.
 
